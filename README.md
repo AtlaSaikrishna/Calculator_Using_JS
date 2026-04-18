@@ -37,8 +37,7 @@ It allows users to perform simple arithmetic operations in a user-friendly inter
 ## 📷 Screenshot
 
 ![UI](images/screenshot.jpeg)
-![Result](images/resultScreenshot%20.jpeg)
-
+![Result](images/result-screenshot.jpeg)
 ---
 
 ## 📂 Project Structure
